@@ -45,21 +45,3 @@
   </tr>
 </table>
 
-
-### 기획
-
-<table>
-  <tr>
-    <td align="center"><a href=""><img src="" width="150px;" alt="">
-    <td align="center"><a href=""><img src="" width="150px;" alt="">
-    <td align="center"><a href=""><img src="" width="150px;" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href=""><b>김대훈</b></td>
-    <td align="center"><a href=""><b>이승윤</b></td>
-    <td align="center"><a href=""><b>박승현</b></td>
-  </tr>
-
-
-</table>
