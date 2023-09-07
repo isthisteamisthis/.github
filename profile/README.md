@@ -1,4 +1,4 @@
-# 음치음티
+# 🎤 음치음티
 
 
 ### AI
@@ -39,9 +39,9 @@
   </tr>
 
   <tr>
-    <td align="center">JS, React Native</td>
-    <td align="center">Java, Spring</td>
-    <td align="center">Java, Spring</td>
+    <td align="center"><strong>JS, React Native</strong></td>
+    <td align="center"><strong>Java, Spring</strong></td>
+    <td align="center"><strong>Java, Spring</strong></td>
   </tr>
 </table>
 
