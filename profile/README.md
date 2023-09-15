@@ -97,7 +97,8 @@
 
 ### 🎤 Repository <br>
 > 📑[BackEnd Repository](https://github.com/isthisteamisthis/lalalia_back) <br>
-> 📑[FrontEnd Repository](https://github.com/isthisteamisthis/lalalia_front)
+> 📑[FrontEnd Repository](https://github.com/isthisteamisthis/lalalia_front) <br>
+> 📑[AI Server Repository](https://github.com/isthisteamisthis/lalalia_ai)
 
 <br>
 
