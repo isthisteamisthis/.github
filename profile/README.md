@@ -41,8 +41,8 @@
 
 <table>
   <tr>
-    <td align="center"><a href=""><img src="" width="150px;" alt="">
-    <td align="center"><a href=""><img src="" width="150px;" alt="">
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/llleeeso" width="150px;" alt="">
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/wohoman" width="150px;" alt="">
     <td align="center"><a href="https://github.com/MinSooC"><img src="https://avatars.githubusercontent.com/MinSooC" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
@@ -59,8 +59,8 @@
   </tr>
       
   <tr>
-    <td align="center"><a href="https://github.com/raxchaz"><b>이소영</b></td>
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>여형구</b></td>
+    <td align="center"><a href="https://github.com/llleeeso"><b>이소영</b></td>
+    <td align="center"><a href="https://github.com/wohoman"><b>여형구</b></td>
     <td align="center"><a href="https://github.com/MinSooC"><b>차민수</b></td>
        <td align="center"><a href="https://github.com/raxchaz"><b>라현지</b></td>
     <td align="center"><a href="https://github.com/Dylan-SonJungin"><b>손정인</b></td>
