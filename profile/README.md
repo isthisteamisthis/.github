@@ -114,7 +114,7 @@
 **`onBoarding & Splash Screen`**
 
 <img width="255" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/18761b94-3afe-4237-a27f-deaa7f8ef4d0"> 
-</div>
+
 
 <br>
 
@@ -125,14 +125,14 @@
 <img width="150" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/eb271fa4-c208-4927-9e4a-b7b55418479b">
 
 <br>
-<div align="center">
-<br>
-  
+
 **`음역대 측정 페이지 | + AI`** 
 <br>
 
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/86a15008-ad16-407d-80b2-aacb593f1c9d">
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/431e2f38-fd51-4d05-8b12-d9d5c3a01ee8">
+
+</div>
 
 
 
