@@ -109,11 +109,19 @@
 
 **`onBoarding & Splash Screen`**
 <br>
-<img width="255" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/18761b94-3afe-4237-a27f-deaa7f8ef4d0"> <br>
-<img width="245" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/58a9d803-1bfb-4f18-a7a1-f9b91e83fbdd">
-<img width="245" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/818ce399-577f-446d-a380-a230b27dc520">
-<img width="245" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/00d879c5-1ae2-42f8-bab4-c48fd291e5eb">
-<img width="245" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/a218eb47-ba9d-4865-96ae-0a455e52183d">
+
+<div align="center">
+<img width="255" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/18761b94-3afe-4237-a27f-deaa7f8ef4d0"> 
+</div>
+
+<br>
+
+<img width="195" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/58a9d803-1bfb-4f18-a7a1-f9b91e83fbdd">
+<img width="195" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/818ce399-577f-446d-a380-a230b27dc520">
+<img width="195" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/00d879c5-1ae2-42f8-bab4-c48fd291e5eb">
+<img width="195" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/a218eb47-ba9d-4865-96ae-0a455e52183d">
+<img width="195" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/eb271fa4-c208-4927-9e4a-b7b55418479b">
+
 
 
 
