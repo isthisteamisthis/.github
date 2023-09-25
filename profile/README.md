@@ -135,14 +135,23 @@
 <br> 
 
 
-**`메인 화면 | 배너 돌아가는 것 확인`** 
+**`메인 화면 | 배너 돌아가는 것 확인!`** 
  <br> 
  
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/fd4b234b-3285-4010-b37d-69f2fb306b75">
 <img width="249" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/4cf1c2e7-8a0e-48bd-9fbe-08fcb56cbbc4">
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/eabdc939-ba5e-4adb-87a9-6e281f02924f">
 
+<br>
+<br>
 
+**`커뮤니티 & Ai 커버 생성 페이지`** 
+<br>
+
+<img width="220" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/cca40fcd-bf36-460d-9890-7741ed38fc0b">
+<img width="220" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/769b958f-706b-4ffa-b584-8322278414f0">
+<br>
+<br>
 
 
 </div>
