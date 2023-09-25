@@ -1,4 +1,3 @@
-
 <div align="center">
   
 ## 💽 랄라리아 : LALALIA
@@ -132,6 +131,19 @@
 
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/86a15008-ad16-407d-80b2-aacb593f1c9d">
 <img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/431e2f38-fd51-4d05-8b12-d9d5c3a01ee8">
+<br> 
+<br> 
+
+
+**`메인 화면 | 배너 돌아가는 것 확인`** 
+ <br> 
+ 
+<img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/fd4b234b-3285-4010-b37d-69f2fb306b75">
+<img width="245" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/4cf1c2e7-8a0e-48bd-9fbe-08fcb56cbbc4">
+<img width="250" alt="image" src="https://github.com/isthisteamisthis/.github/assets/119282494/eabdc939-ba5e-4adb-87a9-6e281f02924f">
+
+
+
 
 </div>
 
