@@ -79,20 +79,20 @@
 
 ### 🎤 기술 스택
 > #### BackEnd
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 > #### FrontEnd
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 > #### AI
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
 > #### Communication
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white)
 > #### Environment
-<img src="https://img.shields.io/badge/Intelii J-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Intelii J-000000?style=flat&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=vscode&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white">
 
 <br>
 
