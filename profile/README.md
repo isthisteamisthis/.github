@@ -67,9 +67,9 @@
   </tr>
 
   <tr>
-    <td align="center">사용 기술</td>
-    <td align="center">사용 기술</td>
-    <td align="center">사용 기술</td>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
+    <td align="center">Python</td>
       <td align="center"><strong>JS, React Native</strong></td>
     <td align="center"><strong>Java, Spring</strong></td>
     <td align="center"><strong>Java, Spring</strong></td>
