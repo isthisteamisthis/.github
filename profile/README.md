@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 > #### FrontEnd
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white)
 > #### AI
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=FFmpeg&logoColor=white)
