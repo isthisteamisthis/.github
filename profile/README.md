@@ -50,7 +50,7 @@
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/wohoman" width="150px;" alt="">
     <td align="center"><a href="https://github.com/MinSooC"><img src="https://avatars.githubusercontent.com/MinSooC" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Dylan-SonJungin"><img src="https://avatars.githubusercontent.com/Dylan-SonJungin" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/silverpoodle"><img src="https://avatars.githubusercontent.com/silverpoodle" width="150px;" alt="">
     <td align="center"><a href="https://github.com/numerical43"><img src="https://avatars.githubusercontent.com/numerical43" width="150px;" alt="">
     </td>
   </tr>
